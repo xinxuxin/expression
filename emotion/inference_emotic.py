@@ -1,10 +1,4 @@
-'''
--*- coding: utf-8 -*-
-@Author  : Xinda Chen
-@Time    : 2021/7/22 11:12
-@Software: PyCharm
-@File    : inference_emotic.py
-'''
+
 import cv2
 import numpy as np
 import os
